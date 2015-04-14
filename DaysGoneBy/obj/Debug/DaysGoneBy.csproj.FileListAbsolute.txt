@@ -1,0 +1,9 @@
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\bin\Debug\DaysGoneBy.exe.config
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\bin\Debug\DaysGoneBy.exe
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\bin\Debug\DaysGoneBy.pdb
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.csprojResolveAssemblyReference.cache
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.Form1.resources
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.Properties.Resources.resources
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.csproj.GenerateResource.Cache
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.exe
+c:\users\marc\documents\visual studio 2013\Projects\DaysGoneBy\DaysGoneBy\obj\Debug\DaysGoneBy.pdb
